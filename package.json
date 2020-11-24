@@ -1,0 +1,32 @@
+{
+  "name": "@autots/cra-ts-config",
+  "version": "0.0.1",
+  "description": "react typescript lint config task",
+  "bin": "bin/index.js",
+  "author": "Sharklegs",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "react",
+    "typescript"
+  ],
+  "dependencies": {
+    "mrm-core": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharklegs/cra-ts-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sharklegs/cra-ts-config/issues"
+  },
+  "homepage": "https://github.com/Sharklegs/cra-ts-config#readme"
+}
